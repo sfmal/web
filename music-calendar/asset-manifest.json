@@ -1,12 +1,12 @@
 {
   "files": {
     "main.css": "/web/music-calendar/static/css/main.791f27d2.css",
-    "main.js": "/web/music-calendar/static/js/main.6fb525d3.js",
+    "main.js": "/web/music-calendar/static/js/main.43fd00bb.js",
     "static/js/206.5db4df12.chunk.js": "/web/music-calendar/static/js/206.5db4df12.chunk.js",
     "index.html": "/web/music-calendar/index.html"
   },
   "entrypoints": [
     "static/css/main.791f27d2.css",
-    "static/js/main.6fb525d3.js"
+    "static/js/main.43fd00bb.js"
   ]
 }
